@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f9b0f,100:00ff41&height=220&section=header&text=Richard%20Jabastin&fontSize=45&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Ethical%20Hacker%20%7C%20Grey%20Hat%20Hacker&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f9b0f,100:00ff41&height=200&section=header&text=Richard%20Jabastin&fontSize=45&fontColor=00ff41&animation=fadeIn&fontAlignY=45" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=whoami+%3D%3E+Richard+Jabastin;role+%3D%3E+Ethical+Hacker;role+%3D%3E+Grey+Hat+Hacker;status+%3D%3E+Breaking+things+legally...;access_level+%3D%3E+root" alt="Typing SVG" />
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="450">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=root%40richard%3A~%23+./identity.sh;decrypting+payload...;%5B%2B%5D+45+74+68+69+63+61+6c;%5B%2B%5D+48+61+63+6b+65+72;access_granted+%3A%3A+welcome" alt="Typing SVG" />
 
 </div>
 
@@ -14,12 +10,17 @@
 
 ```bash
 ┌──(jd㉿h4x)-[~]
-└─$ cat about_me.txt
+└─$ xxd identity.bin
 
-  > Ethical Hacker / Grey Hat Hacker from India
-  > Breaking systems to understand them
-  > Always exploring new attack surfaces
-  > Turning vulnerabilities into fixes, not exploits
+00000000: 4574 6869 6361 6c20 4861 636b 6572 207c  Ethical Hacker |
+00000010: 2047 7265 7920 4861 7420 4861 636b 6572   Grey Hat Hacker
+00000020: 2066 726f 6d20 496e 6469 61              from India
+
+┌──(jd㉿h4x)-[~]
+└─$ echo $STATUS
+> breaking things to understand them
+> turning vulnerabilities into fixes, not exploits
+> always exploring new attack surfaces
 
 ┌──(jd㉿h4x)-[~]
 └─$ _
@@ -55,16 +56,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=jdh4x&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdh4x&theme=highcontrast&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%" />
-
-<br><br>
-
-### 🐍 Contribution Grid
-
-<img src="https://raw.githubusercontent.com/jdh4x/jdh4x/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 
 </div>
 
