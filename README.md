@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f9b0f,100:00ff41&height=200&section=header&text=Richard%20Jabastin&fontSize=45&fontColor=00ff41&animation=fadeIn&fontAlignY=45" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=root%40richard%3A~%23+./identity.sh;decrypting+payload...;%5B%2B%5D+45+74+68+69+63+61+6c;%5B%2B%5D+48+61+63+6b+65+72;access_granted+%3A%3A+welcome" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=root%40richard%3A~%23+./identity.sh;decrypting+payload...;access_granted+%3A%3A+welcome" alt="Typing SVG" />
 
 </div>
 
@@ -12,9 +12,11 @@
 ┌──(jd㉿h4x)-[~]
 └─$ xxd identity.bin
 
-00000000: 4574 6869 6361 6c20 4861 636b 6572 207c  Ethical Hacker |
-00000010: 2047 7265 7920 4861 7420 4861 636b 6572   Grey Hat Hacker
-00000020: 2066 726f 6d20 496e 6469 61              from India
+00000000: 4574 6869 6361 6c20 4861 636b 6572 2020
+00000010: 2020 2020 7c20 2020 2020 2020 2020 2020
+00000020: 4772 6579 2048 6174 2048 6163 6b65 7220
+00000030: 2020 2020 2020 2020 2020 2020 2020 2020
+00000040: 6672 6f6d 2049 6e64 6961 2020 2020 2020
 
 ┌──(jd㉿h4x)-[~]
 └─$ echo $STATUS
