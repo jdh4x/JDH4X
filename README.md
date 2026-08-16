@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f9b0f,100:00ff41&height=220&section=header&text=Richard%20Jabastin&fontSize=45&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Ethical%20Hacker%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f9b0f,100:00ff41&height=220&section=header&text=Richard%20Jabastin&fontSize=45&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Ethical%20Hacker%20%7C%20Grey%20Hat%20Hacker&descAlignY=58&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=whoami+%3D%3E+Richard+Jabastin;role+%3D%3E+Ethical+Hacker;status+%3D%3E+Breaking+things+legally...;access_level+%3D%3E+root" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=whoami+%3D%3E+Richard+Jabastin;role+%3D%3E+Ethical+Hacker;role+%3D%3E+Grey+Hat+Hacker;status+%3D%3E+Breaking+things+legally...;access_level+%3D%3E+root" alt="Typing SVG" />
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="450">
 
 </div>
 
@@ -12,8 +16,8 @@
 ┌──(jd㉿h4x)-[~]
 └─$ cat about_me.txt
 
-  > Ethical Hacker from India
-  > Passionate about offensive security & red teaming
+  > Ethical Hacker / Grey Hat Hacker from India
+  > Breaking systems to understand them
   > Always exploring new attack surfaces
   > Turning vulnerabilities into fixes, not exploits
 
@@ -57,6 +61,10 @@
 ### 🐍 Contribution Grid
 
 <img src="https://raw.githubusercontent.com/jdh4x/jdh4x/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 
 </div>
 
