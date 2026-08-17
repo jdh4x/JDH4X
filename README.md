@@ -13,8 +13,7 @@
 
 ```
 ╔═══════════════════════════════════════════╗
-║  ┌──(jd㉿h4x)-[~]                          ║
-║  └─$ xxd identity.bin                      ║
+║ root@ghost:~# xxd identity.bin             ║
 ║                                             ║
 ║  00000000: 4574 6869 6361 6c20 4861 636b   ║
 ║  00000010: 6572 2020 2020 2020 7c20 2020   ║
@@ -22,14 +21,12 @@
 ║  00000030: 6b65 7220 2020 2020 2020 2020   ║
 ║  00000040: 6672 6f6d 2049 6e64 6961 2020   ║
 ║                                             ║
-║  ┌──(jd㉿h4x)-[~]                          ║
-║  └─$ echo $STATUS                          ║
+║ root@ghost:~# echo $STATUS                 ║
 ║  > breaking things to understand them      ║
 ║  > turning vulnerabilities into fixes      ║
 ║  > always exploring new attack surfaces    ║
 ║                                             ║
-║  ┌──(jd㉿h4x)-[~]                          ║
-║  └─$ _                                     ║
+║ root@ghost:~# _                            ║
 ╚═══════════════════════════════════════════╝
 ```
 
