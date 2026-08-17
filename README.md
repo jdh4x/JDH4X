@@ -2,9 +2,26 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f9b0f&height=200&section=header&text=Richard%20Jabastin&fontSize=42&fontColor=00ff41&animation=fadeIn&fontAlignY=45" width="100%"/>
 
-<img src="https://readme-svg-typing-generator.vercel.app/api?lines=SYSTEM+BREACH+DETECTED;INITIATING+PROTOCOL...&animation=matrix&color=9d00ff&background=00000000&size=24&width=650&height=55&font=monospace&center=true" alt="matrix" />
+<img src="https://readme-svg-typing-generator.vercel.app/api?lines=SYSTEM+BREACH+DETECTED;INITIATING+PROTOCOL...&animation=matrix&color=ff0033&background=00000000&size=24&width=650&height=55&font=monospace&center=true" alt="matrix" />
 
 </div>
+
+<br>
+
+```
+                   ▄▄▄▄▄▄▄▄▄▄▄
+                ▄█████████████▄
+              ▄██▀▀       ▀▀██▄
+             ██▀   ▄▄   ▄▄   ▀██
+            ██    █▀▀█ █▀▀█    ██
+            ██    ▀▄▄▀ ▀▄▄▀    ██
+            ▀██▄   ▀▀▀▀▀▀▀   ▄██▀
+              ▀███▄▄▄▄▄▄▄▄▄███▀
+             ▄██▀ ██ ██ ██ ▀██▄
+             █▀    ▀▀ ▀▀ ▀▀    ▀█
+
+       "no gods watch these wires."
+```
 
 <br>
 
@@ -13,7 +30,7 @@
 
 ```
 ╔═══════════════════════════════════════════╗
-║ root@ghost:~# xxd identity.bin             ║
+║ root@jdh4x:~# xxd identity.bin             ║
 ║                                             ║
 ║  00000000: 4574 6869 6361 6c20 4861 636b   ║
 ║  00000010: 6572 2020 2020 2020 7c20 2020   ║
@@ -21,12 +38,12 @@
 ║  00000030: 6b65 7220 2020 2020 2020 2020   ║
 ║  00000040: 6672 6f6d 2049 6e64 6961 2020   ║
 ║                                             ║
-║ root@ghost:~# echo $STATUS                 ║
+║ root@jdh4x:~# echo $STATUS                 ║
 ║  > breaking things to understand them      ║
 ║  > turning vulnerabilities into fixes      ║
 ║  > always exploring new attack surfaces    ║
 ║                                             ║
-║ root@ghost:~# _                            ║
+║ root@jdh4x:~# _                            ║
 ╚═══════════════════════════════════════════╝
 ```
 
@@ -65,8 +82,7 @@
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=jdh4x&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=9d00ff&icon_color=9d00ff&text_color=ffffff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jdh4x&theme=radical&hide_border=true&background=000000&stroke=9d00ff&ring=9d00ff&fire=9d00ff&currStreakLabel=9d00ff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jdh4x&theme=radical&hide_border=true&background=000000&stroke=9d00ff&ring=9d00ff&fire=9d00ff&currStreakLabel=9d00ff" width="70%" />
 
 </div>
 
