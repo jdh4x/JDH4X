@@ -2,26 +2,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f9b0f&height=200&section=header&text=Richard%20Jabastin&fontSize=42&fontColor=00ff41&animation=fadeIn&fontAlignY=45" width="100%"/>
 
-<img src="https://readme-svg-typing-generator.vercel.app/api?lines=SYSTEM+BREACH+DETECTED;INITIATING+PROTOCOL...&animation=matrix&color=ff0033&background=00000000&size=24&width=650&height=55&font=monospace&center=true" alt="matrix" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=FF0033&center=true&vCenter=true&width=650&lines=SYSTEM+BREACH+DETECTED;INITIATING+PROTOCOL..." alt="typing" />
 
 </div>
 
 <br>
 
-```
-                   ▄▄▄▄▄▄▄▄▄▄▄
-                ▄█████████████▄
-              ▄██▀▀       ▀▀██▄
-             ██▀   ▄▄   ▄▄   ▀██
-            ██    █▀▀█ █▀▀█    ██
-            ██    ▀▄▄▀ ▀▄▄▀    ██
-            ▀██▄   ▀▀▀▀▀▀▀   ▄██▀
-              ▀███▄▄▄▄▄▄▄▄▄███▀
-             ▄██▀ ██ ██ ██ ▀██▄
-             █▀    ▀▀ ▀▀ ▀▀    ▀█
+<div align="center">
 
-       "no gods watch these wires."
-```
+<img src="https://media1.tenor.com/m/5kxNf_3rFGsAAAAC/demon-eye.gif" width="320">
+
+<br>
+
+**"no gods watch these wires."**
+
+</div>
 
 <br>
 
@@ -29,22 +24,20 @@
 <tr><td>
 
 ```
-╔═══════════════════════════════════════════╗
-║ root@jdh4x:~# xxd identity.bin             ║
-║                                             ║
-║  00000000: 4574 6869 6361 6c20 4861 636b   ║
-║  00000010: 6572 2020 2020 2020 7c20 2020   ║
-║  00000020: 4772 6579 2048 6174 2048 6163   ║
-║  00000030: 6b65 7220 2020 2020 2020 2020   ║
-║  00000040: 6672 6f6d 2049 6e64 6961 2020   ║
-║                                             ║
-║ root@jdh4x:~# echo $STATUS                 ║
-║  > breaking things to understand them      ║
-║  > turning vulnerabilities into fixes      ║
-║  > always exploring new attack surfaces    ║
-║                                             ║
-║ root@jdh4x:~# _                            ║
-╚═══════════════════════════════════════════╝
+root@jdh4x:~# xxd identity.bin
+
+00000000: 4574 6869 6361 6c20 4861 636b
+00000010: 6572 2020 2020 2020 7c20 2020
+00000020: 4772 6579 2048 6174 2048 6163
+00000030: 6b65 7220 2020 2020 2020 2020
+00000040: 6672 6f6d 2049 6e64 6961 2020
+
+root@jdh4x:~# echo $STATUS
+> breaking things to understand them
+> turning vulnerabilities into fixes
+> always exploring new attack surfaces
+
+root@jdh4x:~# _
 ```
 
 </td></tr>
